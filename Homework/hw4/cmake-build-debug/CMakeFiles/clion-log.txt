@@ -1,0 +1,2 @@
+Cannot load CMake project: Cygwin not found at: D:\Programs\clion\Cygwin.bat
+Cannot load CMake project: CMake executable is incorrect

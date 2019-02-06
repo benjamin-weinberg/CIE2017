@@ -1,0 +1,160 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/Character.h
+CharacterBase.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/CharacterBase.h
+
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/CharacterBase.h
+HealthStatus.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/HealthStatus.h
+PurchaseRecord.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/PurchaseRecord.h
+string
+-
+map
+-
+Store.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/Store.h
+Item.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/Item.h
+GameObject.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/GameObject.h
+
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/GameObject.h
+HealthStatus.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/HealthStatus.h
+
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/HealthStatus.h
+string
+-
+
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/Item.h
+json/json.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/json/json.h
+HealthStatus.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/HealthStatus.h
+string
+-
+map
+-
+GameObject.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/GameObject.h
+
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/MallGame.h
+Store.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/Store.h
+Character.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/Character.h
+Item.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/Item.h
+
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/PurchaseRecord.h
+string
+-
+sstream
+-
+map
+-
+list
+-
+
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/Store.h
+StoreBase.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/StoreBase.h
+
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/StoreBase.h
+Item.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/Item.h
+StoreInventoryItem.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/StoreInventoryItem.h
+string
+-
+vector
+-
+map
+-
+iostream
+-
+GameObject.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/GameObject.h
+
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/StoreInventoryItem.h
+string
+-
+json/json.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/json/json.h
+map
+-
+
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/hw6.cpp
+iostream
+-
+MallGame.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/MallGame.h
+
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/json/json.h
+stddef.h
+-
+string
+-
+stdint.h
+-
+cpptl/config.h
+-
+version.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/json/version.h
+allocator.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/json/allocator.h
+config.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/json/config.h
+forwards.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/json/forwards.h
+forwards.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/json/forwards.h
+string
+-
+vector
+-
+exception
+-
+map
+-
+cpptl/smallmap.h
+-
+cpptl/forwards.h
+-
+features.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/json/features.h
+value.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/json/value.h
+deque
+-
+iosfwd
+-
+stack
+-
+string
+-
+istream
+-
+value.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/json/value.h
+vector
+-
+string
+-
+ostream
+-
+stdlib.h
+-
+sstream
+-
+config.h
+/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw6/json/config.h
+
