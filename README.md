@@ -1,2 +1,2 @@
 # CIE2017
-Computers in Engineerin - Spring 2017 - Advanced C++ Development
+Computers in Engineering - Spring 2017 - Advanced C++ Development
