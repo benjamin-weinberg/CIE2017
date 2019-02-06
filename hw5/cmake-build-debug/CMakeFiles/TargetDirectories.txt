@@ -1,4 +1,0 @@
-/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw5/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw5/cmake-build-debug/CMakeFiles/hw5.dir
-/cygdrive/d/Student/cie/CIE Svn/wnbrg/homework/hw5/cmake-build-debug/CMakeFiles/hw5_support.dir
